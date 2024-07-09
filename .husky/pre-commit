@@ -1,0 +1,2 @@
+pnpm prepare
+pnpm test:unit:run
