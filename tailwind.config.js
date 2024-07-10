@@ -6,7 +6,7 @@ export default {
 			colors: {
 				primary: "hsl(var(--color-background))",
 				secondary: "hsl(var(--color-text))",
-				focus: "hsl(var(--color-text-alt))",
+				focus: "hsl(var(--color-text-focus))",
 				accent: "hsl(var(--color-accent))",
 				highlight: "hsl(var(--color-highlight))",
 			},

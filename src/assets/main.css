@@ -21,8 +21,7 @@
 }
 
 body {
-    min-width: 100vh;
-
     background-color: hsl(var(--color-background));
     color: hsl(var(--color-text));
+    accent-color: hsl(var(--color-accent));
 }
